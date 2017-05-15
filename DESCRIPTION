@@ -1,0 +1,15 @@
+Package: microRNAome
+Version: 0.99.0
+Date: 2017-05-12
+Title: SummarizedExperiment for the microRNAome project
+Description: This package provides a SummarizedExperiment object of
+        read counts for microRNAs across tissues, cell-types, and cancer cell-lines. 
+	The read count matrix was prepared and provided by the author of the
+        study: Towards the human cellular microRNAome.
+Author: Matthew N. McCall <mccallm@gmail.com>, Marc K. Halushka <mhalush1@jhmi.edu>
+Maintainer: Matthew N. McCall <mccallm@gmail.com>
+Depends: R (>= 3.4), SummarizedExperiment
+Suggests: BiocGenerics, RUnit
+biocViews: ExperimentData, CellCulture, CancerData, SequencingData, RNASeqData, miRNAData
+License: GPL (>= 2)
+URL: http://bioconductor.org
