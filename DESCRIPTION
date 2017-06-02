@@ -1,6 +1,6 @@
 Package: microRNAome
-Version: 0.99.0
-Date: 2017-05-12
+Version: 0.99.1
+Date: 2017-06-02
 Title: SummarizedExperiment for the microRNAome project
 Description: This package provides a SummarizedExperiment object of
         read counts for microRNAs across tissues, cell-types, and cancer cell-lines. 
@@ -12,4 +12,3 @@ Depends: R (>= 3.4), SummarizedExperiment
 Suggests: BiocGenerics, RUnit
 biocViews: ExperimentData, CellCulture, CancerData, SequencingData, RNASeqData, miRNAData
 License: GPL (>= 2)
-URL: http://bioconductor.org
