@@ -32,4 +32,5 @@ data(microRNAome)
 ## in the assays field: a matrix of miRNA counts
 names(assays(microRNAome))
 assays(microRNAome)$counts[1:3,1:3]
+}
 \keyword{datasets}

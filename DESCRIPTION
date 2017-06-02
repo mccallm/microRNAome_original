@@ -1,5 +1,5 @@
 Package: microRNAome
-Version: 0.99.1
+Version: 0.99.2
 Date: 2017-06-02
 Title: SummarizedExperiment for the microRNAome project
 Description: This package provides a SummarizedExperiment object of
